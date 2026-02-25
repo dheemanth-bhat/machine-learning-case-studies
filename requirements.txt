@@ -1,0 +1,13 @@
+# Notebook Editor.
+jupyterlab
+
+# Data manipulation libraries.
+numpy
+scipy
+statsmodels
+pandas
+
+# Data visualization libraries.
+matplotlib
+seaborn
+wordcloud
